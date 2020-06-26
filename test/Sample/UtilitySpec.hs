@@ -5,8 +5,6 @@ module Sample.UtilitySpec (spec) where
 
 import Test.Hspec
 import Control.Monad.Logger
-import Control.Monad.IO.Class
-import Data.Default
 import System.Log.FastLogger
 
 import Spec.Sample.Constant

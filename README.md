@@ -86,33 +86,4 @@ AppContextを、若干、むりやり、オブジェクト指向にこじつけ�
 [![hs-state-pattern](http://img.youtube.com/vi/tq5zjfxdNzI/0.jpg)](https://youtu.be/tq5zjfxdNzI)
 
 
-## 第12回 型変数が複数の型クラス
-### ◇概要
-今回は、前回、値アドホック多相でリクエストの処理を分岐した箇所について、
-その後の実装を、状態とリクエストの、階層的なモジュールに分解してみます。
-### ◇動画
-[![hs-state-pattern](http://img.youtube.com/vi/KKs4063YsM0/0.jpg)](https://youtu.be/KKs4063YsM0)
-
-
-## 第13回 最終回 状態遷移
-### ◇概要
-だいぶ時間がかかりましたが、本連載は、今回で一通り終わりです。  
-この連載で作っていたサンプルをgithubにあげています。
-### ◇動画
-[![hs-state-pattern](http://img.youtube.com/vi/GEA1gnX8fUA/0.jpg)](https://youtu.be/GEA1gnX8fUA)
-
-
-## 第14回 最終回のあとのTH
-### ◇概要
-前回までで、状態遷移について一通り実装ができたのですが、一部、重複するコードがあるので、テンプレートハスケルで、ボイラープレート化してみたいと思います。
-### ◇動画
-[![hs-state-pattern](http://img.youtube.com/vi/0kLFVeK6akI/0.jpg)](https://youtu.be/0kLFVeK6akI)
-
-## 第15回 最終回のあとのTH2
-### ◇概要
-前回確認した、テンプレートハスケルでボイラープレート化する箇所の
-自動生成コートを見ていきたいと思います。
-### ◇動画
-[![hs-state-pattern](http://img.youtube.com/vi/IJJyRx0j8P8/0.jpg)](https://youtu.be/IJJyRx0j8P8)
-
 
