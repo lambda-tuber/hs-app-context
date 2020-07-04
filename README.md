@@ -1,5 +1,10 @@
 # モナドでAppContext
-___全15回(2020.05-2020.07)___
+___全15回予定(2020.05-2020.07)___
+
+第13回で、Stackテンプレートの使い方を紹介しています。  
+先に、お手元に、AppContextのプロジェクトを作成してからビデオを観て頂く方が、
+コードが追っかけやすいと思います。
+
 
 ## 第1回 ☆初回☆ モナドでAppContext
 ### ◇概要
@@ -85,5 +90,19 @@ AppContextを、若干、むりやり、オブジェクト指向にこじつけ�
 ### ◇動画
 [![hs-state-pattern](http://img.youtube.com/vi/tq5zjfxdNzI/0.jpg)](https://youtu.be/tq5zjfxdNzI)
 
+
+## 第12回  HSpecによる試験環境
+### ◇概要
+今回は、HSpecの試験環境を準備してみたいと思います。
+早速、コーディングしていきましょう。
+### ◇動画
+[![hs-state-pattern](http://img.youtube.com/vi/Vy9yrByf7F4/0.jpg)](https://youtu.be/Vy9yrByf7F4)
+
+
+## 第13回Stack Templateの準備
+### ◇概要
+今回は、これまでつくってきたアプリケーションコンテキストを、GitHubにおきましたのでリポジトリを紹介します。
+### ◇動画
+[![hs-state-pattern](http://img.youtube.com/vi/fekb301oyKg/0.jpg)](https://youtu.be/fekb301oyKg)
 
 
