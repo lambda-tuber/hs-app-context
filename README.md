@@ -99,10 +99,26 @@ AppContextを、若干、むりやり、オブジェクト指向にこじつけ�
 [![hs-state-pattern](http://img.youtube.com/vi/Vy9yrByf7F4/0.jpg)](https://youtu.be/Vy9yrByf7F4)
 
 
-## 第13回Stack Templateの準備
+## 第13回 Stack Templateの準備
 ### ◇概要
 今回は、これまでつくってきたアプリケーションコンテキストを、GitHubにおきましたのでリポジトリを紹介します。
 ### ◇動画
 [![hs-state-pattern](http://img.youtube.com/vi/fekb301oyKg/0.jpg)](https://youtu.be/fekb301oyKg)
 
+
+## 第14回 Extensible Effectsによるモナドの融合(準備)
+### ◇概要
+今回と次回で、名前がカッコいい、Extensible Effectsを見ていきたいと思います。
+
+### ◇動画
+[![hs-state-pattern](http://img.youtube.com/vi/8ze1ZAXahDg/0.jpg)](https://youtu.be/8ze1ZAXahDg)
+
+
+## 第15回 ☆最終回☆ Extensible Effectsによるモナドの融合
+### ◇概要
+今回は、とうとう最終回です。  
+なんか名前がカッコいいExtensible Effectsで、モナドを融合していきたいと思います。
+
+### ◇動画
+[![hs-state-pattern](http://img.youtube.com/vi/ZT64halRc5M/0.jpg)](https://youtu.be/ZT64halRc5M)
 
